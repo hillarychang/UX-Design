@@ -8,19 +8,10 @@ Hello World
 [My Text here] (https://github.com/HillaryChang)
 ![Description](https://avatars0.githubusercontent.com/u/583231?s=460&v=4)
 
-  This line 'alert("hello");' alerts hello
-  
-  ...
-  def foo():
-    print("Hello World");
-  ...
+
   
   > Your quote
-  
-  asdffff
-  aaaaasdf
-  
-  sdfgh
+
 
   section
  
