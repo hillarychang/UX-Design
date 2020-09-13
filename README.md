@@ -1,6 +1,6 @@
 # hchang380.github.io
 
-Hello World 
+TEST
 * point 1
 * point 2
   * Subpoint 1
