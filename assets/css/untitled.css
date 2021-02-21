@@ -1,0 +1,16 @@
+.btn-outline-warning:hover {
+  color: #212529;
+  background-color: rgb(232,153,153);
+  border-color: rgb(232,153,153);
+}
+
+section.features .feature-item i {
+}
+
+.nav-link.js-scroll-trigger {
+}
+
+.text-info {
+  color: rgba(42,39,39,0.7);
+}
+
